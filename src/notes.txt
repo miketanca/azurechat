@@ -6,3 +6,14 @@ server: chat-thread-service CreateChatAndRedirect
 
 server: chat-api
 client: chat-store
+
+*
+hey Tan, Michael! i was wondering if you can look into something for us when it comes to azure chat 
+ 
+specfically in azure chat when you create a new chat can the default persona be set to something we specify
+ 
+and when you  click new chat it already points to documents that have already been index in azure search 
+ 
++ also allow for  a new chat to trigger a specific extention as well
+ 
+* 
