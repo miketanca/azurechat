@@ -52,7 +52,7 @@
     },
     "chatGptDeploymentCapacity": {
       "type": "int",
-      "defaultValue": 30
+      "defaultValue": 8
     },
     "chatGptDeploymentName": {
       "type": "string",
