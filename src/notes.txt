@@ -1,0 +1,8 @@
+* creating new chat
+
+server: chat-thread-service CreateChatAndRedirect
+
+* chat
+
+server: chat-api
+client: chat-store
